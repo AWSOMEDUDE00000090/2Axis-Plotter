@@ -1,1 +1,1 @@
-# 2Axis-Plotter
+# 2-Axis-Plotter
